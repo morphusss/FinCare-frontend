@@ -1,7 +1,5 @@
 # FinCare
 
----
-
 ## Popis:
 
 Náš projekt **FinCore** predstavuje pohodlnú mobilnú bankovú aplikáciu na správu financií. Každý používateľ si môže zaregistrovať vlastný účet a v prípade potreby ho odstrániť. Aplikácia umožňuje otvárať bankové účty v troch menách: amerických dolároch (USD), eurách (EUR) a ukrajinských hrivnách (UAH). Používatelia môžu spravovať svoje účty a sledovať aktuálny zostatok. Aplikácia tiež umožňuje prevádzať peniaze medzi účtami, a to aj v rôznych menách.
