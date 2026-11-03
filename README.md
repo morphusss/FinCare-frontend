@@ -20,7 +20,7 @@ Náš projekt **FinCore** predstavuje pohodlnú mobilnú bankovú aplikáciu na 
 
 ## UML diagrama:
 
-![UML diagrama](/ideaAssets/UML.png)
+![UML diagrama](/ideaAssets/UML.jpg)
 
 ## Architektúra projektu:
 
